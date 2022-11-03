@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A calculadora JS foi desenvolvida usando HTML, CSS e JS. Foram incrementadas as função de mudar o tema entre dark e ligth, mensagem de erro caso digite uma calculo inválido e a função de compiar o resultado para a área de transferência.
+A calculadora JS foi desenvolvida usando HTML, CSS e JS. Foram incrementadas as funções de mudar o tema entre dark e ligth, mensagem de erro caso digite uma calculo inválido e a função de compiar o resultado para a área de transferência.
 
 ## 🔖 Projeto
 
