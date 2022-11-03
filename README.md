@@ -26,18 +26,16 @@ Calculadora usando Javascript.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
-- [Node e NPM](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
-- [iMask](https://imask.js.org)
+- JavaScript
+
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+A calculadora JS foi desenvolvida usando HTML, CSS e JS. Foram incrementadas as função de mudar o tema entre dark e ligth, mensagem de erro caso digite uma calculo inválido e a função de compiar o resultado para a área de transferência.
 
-## 🔖 Layout
+## 🔖 Projeto
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o projeto funcionando através [DESSE LINK](https://calculadora-eight-henna.vercel.app/).
 
 ## :memo: Licença
 
